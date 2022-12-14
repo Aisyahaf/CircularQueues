@@ -101,5 +101,19 @@ namespace CircularQueues
                 Console.WriteLine();
             }
         }
+
+        static void Main(string[] args)
+        {
+            Queues q = new Queues();
+            char ch;
+            while (true)
+            {
+                try
+                {
+                    Console.WriteLine("Menu");
+                    Console.WriteLine("Menu");
+                }
+            }
+        }
     }
 }
